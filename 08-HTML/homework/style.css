@@ -1,0 +1,35 @@
+body {
+	width: 900px;
+	background-image: url("https://cdn.pixabay.com/photo/2020/04/26/15/17/seamless-pattern-5095737_960_720.png");
+	background-repeat: repeat;
+	text-align: center;
+	margin: 0px auto;
+	}
+
+h1 {
+	color: red;
+	}
+
+div {
+	text-align: center;
+	}
+
+img {
+	width: 400px;
+	}
+
+#thirdDiv {
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	overflow: hidden;
+	height: 600px;
+	width: 500px;
+	background-color: gold;
+	padding: 50px;
+	border:  1px solid blue;
+	}
+
+#spanId {
+	font-size: 18px;
+	}
